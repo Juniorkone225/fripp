@@ -2954,10 +2954,19 @@ fieldset:disabled .btn {
   color: #ffb524;
   border-color: #ffb524;
 }
+.btn-outline-secondarys {
+  color: #fff;
+  border-color: #fff;
+}
 .btn-outline-secondary:hover {
   color: #000;
   background-color: #ffb524;
   border-color: #ffb524;
+}
+.btn-outline-secondarys:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
 }
 .btn-check:focus + .btn-outline-secondary,
 .btn-outline-secondary:focus {
