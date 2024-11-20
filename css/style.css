@@ -586,3 +586,12 @@
   line-height: 35px;
 }
 /*** Footer End ***/
+/*** about ***/
+.About-text {
+  width: 60%;
+  margin: 2rem auto 0;
+}
+.About-text div p {
+  text-align: justify;
+}
+/*** about End ***/
